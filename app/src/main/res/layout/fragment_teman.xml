@@ -13,31 +13,31 @@
 
 
     <ImageView
-        android:id="@+id/imageView10"
-        android:layout_width="105dp"
-        android:layout_height="89dp"
+        android:id="@+id/imageView8"
+        android:layout_width="167dp"
+        android:layout_height="178dp"
         android:layout_marginStart="8dp"
-        android:layout_marginTop="76dp"
+        android:layout_marginTop="200dp"
         android:layout_marginEnd="8dp"
-        android:layout_marginBottom="8dp"
         android:src="@drawable/ic_account_circle_black_24dp"
-        app:layout_constraintBottom_toTopOf="@+id/textView17"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.837" />
+        app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:id="@+id/textView17"
+        android:id="@+id/DF"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginEnd="8dp"
-        android:layout_marginBottom="264dp"
-        android:text="List Teman"
-        android:textColor="@color/gray"
+        android:layout_marginBottom="8dp"
+        android:text="Daftar Teman"
         android:textSize="20dp"
+        android:gravity="center"
+        android:textColor="@color/gray"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView8"
+        app:layout_constraintVertical_bias="0.095" />
 </android.support.constraint.ConstraintLayout>
