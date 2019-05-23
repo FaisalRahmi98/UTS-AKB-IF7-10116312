@@ -1,6 +1,5 @@
 /**
- *
- * test
+ * 22/05/2019-10116312-Faisal Rahmi-IF7/AKB-7
  */
 package com.faisal.uts_akb_if7_10116312;
 

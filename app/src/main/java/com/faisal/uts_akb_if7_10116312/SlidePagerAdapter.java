@@ -1,3 +1,6 @@
+/**
+ * 22/05/2019-10116312-Faisal Rahmi-IF7/AKB-7
+ */
 package com.faisal.uts_akb_if7_10116312;
 
 import android.support.v4.app.Fragment;
@@ -5,6 +8,7 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentStatePagerAdapter;
 
 import java.util.List;
+
 
 public class SlidePagerAdapter extends FragmentStatePagerAdapter {
 

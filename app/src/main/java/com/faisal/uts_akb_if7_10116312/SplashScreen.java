@@ -1,3 +1,6 @@
+/**
+ * 22/05/2019-10116312-Faisal Rahmi-IF7/AKB-7
+ */
 package com.faisal.uts_akb_if7_10116312;
 
 import android.support.v7.app.AppCompatActivity;
@@ -5,7 +8,6 @@ import android.os.Bundle;
 import android.content.Intent;
 import android.os.Handler;
 import android.view.Window;
-import android.widget.TextView;
 
 public class SplashScreen extends AppCompatActivity {
 
